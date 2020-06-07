@@ -9,7 +9,7 @@
         }
     #page-home header a{
         position: absolute;
-        bottom: 48px;
+        bottom: -36px;
         left: 50%;
         transform: translateX(-50%);
         margin-bottom: -29px;
