@@ -9,10 +9,10 @@
         }
     #page-home header a{
         position: absolute;
-        bottom: -36px;
+        bottom: -50px;
         left: 50%;
         transform: translateX(-50%);
-        margin-bottom: -50px;
+        margin-bottom: -30px;
     }
     #page-home main {
         align-items: center;
